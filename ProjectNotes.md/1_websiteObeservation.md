@@ -1,5 +1,5 @@
 # Fri 21 Aug
-I looked though the original website, and tried to understand the structure and content. The website is mainly designed to support Indian immigrant parents to Australia. 
+I looked through the original website, and tried to understand the structure and content. The website is mainly designed to support Indian immigrant parents to Australia.
 
 It has a homepage, About page, Videos page and Contact page. The main content I want to keep includes the introduction, the eight lesson topics, and some special detailed information. 
 
